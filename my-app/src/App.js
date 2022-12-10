@@ -6,6 +6,7 @@ import NewPickUpLineForm from './components/NewPickupLineForm';
 import Nav from "./components/Nav";
 import AllPickUpLines from "./components/AllPickUpLines";
 import Home from "./components/Home";
+import './style.css';
 
 function App() {
 
