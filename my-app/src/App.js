@@ -28,6 +28,11 @@ function App() {
 
  },[])
 
+ function handleNewLine(pickup){
+  setPickUpLines([...pickUpLines, pickup])
+}
+
+
   return (
     <div>
     <Nav />
